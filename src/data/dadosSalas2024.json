@@ -108,6 +108,15 @@
                     ]
                 },
                 {
+                    "nome": "1º e 2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pedro Henrique Zatti",
+                            "sala": "Terça-Feira na 2B"
+                        }
+                    ]
+                },
+                {
                     "nome": "7º e 8º Semestre",
                     "professores": [
                         {
@@ -275,7 +284,7 @@
                     "professores": [
                         {
                             "nome": "Mariel Pazinatto",
-                            "sala": "Quarta-Feira na 1B e 2B"
+                            "sala": "Quarta-Feira na 2B"
                         }
                     ]
                 },
@@ -328,7 +337,17 @@
         },
         {
             "nome": "Farmácia (Semi-Presencial)",
-            "disciplinas": []
+            "disciplinas": [
+                {
+                    "nome": "1º e 2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pedro Henrique Zatti",
+                            "sala": "Terça-Feira na 2B"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "nome": "Fisioterapia",
@@ -347,7 +366,7 @@
                     "professores": [
                         {
                             "nome": "Mariel Pazinatto",
-                            "sala": "Quarta-Feira na 1B e 2B"
+                            "sala": "Quarta-Feira na 2B"
                         }
                     ]
                 },
@@ -409,6 +428,15 @@
                             "sala": "Quarta-Feira na 5B"
                         }
                     ]
+                },
+                {
+                    "nome": "1º e 2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pedro Henrique Zatti",
+                            "sala": "Terça-Feira na 2B"
+                        }
+                    ]
                 }
             ]
         },
@@ -429,7 +457,7 @@
                     "professores": [
                         {
                             "nome": "Mariel Pazinatto",
-                            "sala": "Quarta-Feira na 1B e 2B"
+                            "sala": "Quarta-Feira na 2B"
                         }
                     ]
                 },
@@ -448,6 +476,15 @@
                         {
                             "nome": "Pâmela Navarro Rech",
                             "sala": "Quarta-Feira na 11B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "1º e 2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pedro Henrique Zatti",
+                            "sala": "Terça-Feira na 2B"
                         }
                     ]
                 },
@@ -576,7 +613,7 @@
             ]
         },
         {
-            "nome": "Engenharia",
+            "nome": "Engenharia Civil",
             "disciplinas": [
                 {
                     "nome": "9º e 10º Semestre",
@@ -586,7 +623,12 @@
                             "sala": "Segunda-Feira na 18B"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "nome": "Engenharia Mecânica",
+            "disciplinas": [
                 {
                     "nome": "7º e 8º Semestre",
                     "professores": [
