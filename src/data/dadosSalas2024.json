@@ -512,6 +512,15 @@
                     ]
                 },
                 {
+                    "nome": "Direito Civil - Parte Geral",
+                    "professores": [
+                        {
+                            "nome": "João de Villa"
+                            "sala": "Quarta-Feira na 18B"
+                        }
+                    ]
+                },
+                {
                     "nome": "Direito Processual Civil – Recursos de Tutela e Causas Repetitivas",
                     "professores": [
                         {
